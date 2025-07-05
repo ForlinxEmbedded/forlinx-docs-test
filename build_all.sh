@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # 设置项目路径
-SRC_DIR="Docs/NXP iMX8MP"
+SRC_DIR="source/NXP iMX8MP"
 OUT_DIR="docs/NXP-iMX8MP"
 
 # 启用错误中止
