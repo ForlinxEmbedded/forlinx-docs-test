@@ -6,9 +6,9 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = '123'
-copyright = '2025, dell'
-author = 'dell'
+project = 'NXP i.MX8MP Documentation'
+copyright = 'Forlinx'
+author = 'Forlinx'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
